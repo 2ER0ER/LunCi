@@ -1,2 +1,2 @@
 # LunCi
-Render a Markdown file to a simple single HTML page via Java
+Lunci is project that render a markdown file to a simple html page by Java.
